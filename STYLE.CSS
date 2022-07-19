@@ -1,6 +1,7 @@
-/* body{
-    font-family: 'Poppins', sans-serif;
-} */
+body{
+    /* font-family: 'Poppins', sans-serif; */
+    margin: 0px;
+}
 .q{
     font-size:50px;
     font-family: 'Poppins', sans-serif;
@@ -62,6 +63,10 @@ section{
     height: 600px;
     margin-top: 50px;
 }
+.banner{
+    background-image: url(/images/top-banner.png);
+    background-repeat: no-repeat;
+}
 
 /* section-2 */
 
@@ -80,4 +85,9 @@ section{
     font-size: 30px;
     font-family: 'Poppins', sans-serif;
     
+}
+.banner-2{
+    background-image: url(/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
