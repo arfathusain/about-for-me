@@ -106,6 +106,17 @@ span-1 {
 
 /* section-3 */
 
+.bangla{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 70px;
+    font-size: 40px;
+     font-family: 'Poppins', sans-serif;
+}
+.arif{
+    color: orange;
+}
+
 .f-w-x {
     font-size: 20px;
     padding-left: 40px;
@@ -131,9 +142,10 @@ span-1 {
     width: 40%;
     margin-left: 5%;
 
-    box-shadow: 0px 5px 10px 0px rgba(0,255,255,0.7);
+    box-shadow: 0px 5px 10px 0px orange;
     margin-bottom: 50px;
     border-radius: 10px;
+    border-left: 6px solid rgb(15, 12, 226);
 }
 
 
@@ -147,4 +159,27 @@ span-1 {
 .ariful-islam{
     background-image: url(/images/exp-bg.png);
     background-repeat: no-repeat;
+}
+
+/* footer */
+
+footer{
+    background-color: black;
+    margin: 0px;
+}
+.mmm{
+    text-align: center;
+    color: aliceblue;
+    font-size: 30px;
+    padding-top:50px;
+}
+.row{
+    text-align: center;
+    font-size: 30px;
+    margin-left: 15px;
+}
+.gtv{
+    color: aliceblue;
+    text-align: center;
+    padding-bottom: 30px;
 }
